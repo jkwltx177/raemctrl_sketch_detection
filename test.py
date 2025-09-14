@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model=C:/capstone/yolo/runs/detect/train7/weights/best.pt source=C:/capstone/yolo/test.jpg
